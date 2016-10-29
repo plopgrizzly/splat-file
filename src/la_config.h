@@ -1,0 +1,4 @@
+//#define LA_FEATURE_AUDIO
+//#define LA_FEATURE_NETWORK
+//#define LA_FEATURE_VIDEO
+#define LA_FEATURE_DISPLAY
