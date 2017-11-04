@@ -1,3 +1,4 @@
-# splat-file ![Couldn't Find Icon](resources/icon.png)
+# splat-file
 
-An open source file browser.
+Splat File is a file browser designed to be as minimalistic as possible while
+being easy to use.
